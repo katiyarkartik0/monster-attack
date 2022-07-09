@@ -1,0 +1,41 @@
+.box1{
+    height:50vh;
+    width: 50vw;
+    background-color: darkcyan;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.box2{
+    height: 75%;
+    width: 75%;
+    border: solid black;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.healthBox{
+    height:20%;
+    width:90%;
+    border: solid black;
+    margin: auto;
+
+}
+
+.moveBox{
+    height:40%;
+    width:90%;
+    border: solid black;
+    margin: auto;
+
+}
+
+.recordBox{
+    height: 30%;
+    width:90%;
+    border:solid black;
+    margin: auto;
+
+}
